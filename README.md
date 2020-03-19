@@ -1,5 +1,6 @@
 # react-native-global-props #
 A simple javascript implementation to add custom, default props to react-native components.
+React Native 0.61 adaptation
 
 
 
